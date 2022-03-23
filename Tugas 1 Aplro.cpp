@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
-
 using namespace std;
+
 struct data_BBM{
     string kode_BBM;
     string nama_BBM;
@@ -65,6 +65,5 @@ int main(){
     cout << "Operator       : "<<nama_penjaga<<endl;
     cout << "           TERIMA KASIH DAN SELAMAT JALAN              ";
 	
-	return 0;
-
+    return 0;
 }
