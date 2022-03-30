@@ -134,7 +134,7 @@ int main()
     	cin>>jml;
     	hrg=pri*jml;
         if(jarak<3)
-        ongkir=15000;
+        ongkir = 15000;
         else if(jarak>=3)
         ongkir=25000;
         else if(hrg<25000)
