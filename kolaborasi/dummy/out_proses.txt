@@ -1,0 +1,8 @@
+317000 //harga total sebelum diskon
+3000 //diskon
+314000 //harga yang harus dibayar
+1 //pesan ayam geprek
+2 //pesan ayam goreng
+3 //pesan udang goreng
+4 //pesan cumi goreng
+5 //pesan ayam bakar

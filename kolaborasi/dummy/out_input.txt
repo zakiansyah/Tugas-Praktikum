@@ -1,0 +1,11 @@
+y // pesan ayan geprek
+2 // jml pesanan ayam geprek
+y // aym grg
+4 // jml pesanan ayam grg
+y // ps udg grg
+4 // jml psnsn udg
+y // psn cumi grg
+1 // jml psnn
+y // psn ayam bakar
+2 // jml psnn 
+3 // jarak
